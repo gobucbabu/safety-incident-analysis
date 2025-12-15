@@ -1,0 +1,7 @@
+Feature,Importance
+High_Risk_Accident,0.03830562052220079
+High_Risk_Industry,0.04227001447611431
+Year_Start,0.07652003083950083
+Industry_Encoded,0.1416793143798907
+Accident_Encoded,0.16755341554047298
+Incident_Count,0.5336716042418205
