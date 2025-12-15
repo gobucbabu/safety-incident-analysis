@@ -266,7 +266,7 @@ The model excels at identifying fatal incidents, which is the most critical use 
 *Construction leads in both fatal and non-fatal incidents*
 
 ### 4. Confusion Matrix
-![Confusion Matrix](visualizations/Img7.png)
+![Confusion Matrix](visualizations/img7.png)
 *Random Forest achieves 72.4% accuracy with strong fatal detection*
 
 ---
